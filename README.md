@@ -1,5 +1,5 @@
-# Command Line Generated README.md
-  [<img src="https://img.shields.io/badge/License-MIT-yellow.svg"/>](https://www.mit.edu/~amini/LICENSE.md)
+# Title generated from command line
+  [<img src="https://img.shields.io/badge/License-FDL_v1.3-blue.svg"/>](https://www.gnu.org/licenses/gpl-3.0.txt)
 
   ## Table of Contents
   - [Description](#description)
@@ -7,40 +7,37 @@
   - [Usage](#usage)
   - [Credit](#credit)
   - [Contribute](#contribute)
-  - [Tutorial](#tutorial)
   - [Tests](#tests)
   - [Licenses](#licenses)
 
   ## Description
-  This application was designed to create README files for future projects without the need to generate and format new Markdown with each new project repository.
+  Description generated from command line.
 
   ## Installation
-  Use this application to generate README files unique to your project. You'll need to clone this repository and install the required dependencies. You can then access project from your command line.
+  Installation steps generated from command line
 
   ## Usage
-  Every repository needs a high-quality README. This project can quickly generate a unique README by using command line prompts to autofill an already formatted and styled Javascript file which then uses the dynamically created content to autofill and create a custom README file.
+  Examples for use generated from command line
 
-  ## Credit  
-  [<img src="https://github.com/Xandromus.png?" width="100"/>](https://github.com/Xandromus)  [<img src="https://github.com/gchoi2u.png?" width="100"/>](https://github.com/gchoi2u)
   
+  ## Credit  
+  [<img src="https://github.com/octocat.png?" width="100"/>](https://github.com/octocat) | [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118) | [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | 
+  :----: | :----: | :----: | 
+  **jane doe** | **mark doe** | **some name here** | 
+  
+
   ## Contribute 
   Please reach out via either of the following links with any questions, including ways in which
   you can contribute to this project!
 
-  | [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes) |
+  | [<img src="https://github.com/octocat.png?" width="150"/>](https://github.com/octocat) |
   | :-: |
-  | c.doexo@gmail.com |
-  | **Cassandra Doe** |
-
-  ## Tutorial
-  ![image](https://user-images.githubusercontent.com/96797348/162356680-0e532113-bc34-415f-b2cf-6a5c36f178f2.png)
-![image](https://user-images.githubusercontent.com/96797348/162356732-6fd6a240-5044-45cd-817a-dff54d592454.png)  
-
-[Click Here](https://www.youtube.com/watch?v=FP_-FNbvuDI) to watch the full tutorial on YouTube
+  | Email address generated from command line |
+  | **Name generated from command line** |
 
   ## Tests
-  No standard testing. I ran the command line hundreds of times to test each new feature to ensure accuracy and that it was free of bugs.
+  Testing input generated from command line
 
   ## Licenses
-  Copyright (c) CassDoes. All rights reserved.  
-  Licensed under the ['MIT'](https://www.mit.edu/~amini/LICENSE.md) license.
+  Copyright (c) (Info generated from command line). All rights reserved.  
+  Licensed under the ['GNU'](https://www.gnu.org/licenses/gpl-3.0.txt) license.
