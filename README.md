@@ -38,7 +38,7 @@
   ## Tests
   ALL OF THE TESTING!
   
-  ## How it works!
+  ## Tutorial
   [Click here](https://youtu.be/FP_-FNbvuDI) to watch the turtorial on YouTube
 
   ## Licenses
