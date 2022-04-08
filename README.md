@@ -30,7 +30,7 @@
   Please reach out via either of the following links with any questions, including ways in which
   you can contribute to this project!
 
-  | [<img src="https://github.com/GitHub username generated from command line.png?" width="150"/>](https://github.com/GitHub username generated from command line) |
+  | [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/GitHub username generated from command line) |
   | :-: |
   | Email address generated from command line |
   | **Name generated from command line** |
