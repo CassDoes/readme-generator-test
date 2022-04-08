@@ -37,6 +37,9 @@
 
   ## Tests
   ALL OF THE TESTING!
+  
+  ## How it works!
+  ![Watch the turtorial on YouTube](https://youtu.be/FP_-FNbvuDI)
 
   ## Licenses
   Copyright (c) CassDoes. All rights reserved.  
