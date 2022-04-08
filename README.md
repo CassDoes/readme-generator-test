@@ -1,4 +1,4 @@
-# Input generated from command line
+# Title generated from command line
   [<img src="https://img.shields.io/badge/License-FDL_v1.3-blue.svg"/>](https://www.gnu.org/licenses/gpl-3.0.txt)
 
   ## Table of Contents
