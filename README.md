@@ -1,5 +1,5 @@
- # README generator test
-  [<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg"/>](https://www.apache.org/licenses/LICENSE-2.0.txt)
+# Input generated from command line
+  [<img src="https://img.shields.io/badge/License-FDL_v1.3-blue.svg"/>](https://www.gnu.org/licenses/gpl-3.0.txt)
 
   ## Table of Contents
   - [Description](#description)
@@ -11,36 +11,33 @@
   - [Licenses](#licenses)
 
   ## Description
-  Description goes here.
+  Description generated from command line.
 
   ## Installation
-  Installation instructions would go here.
+  Installation steps generated from command line
 
   ## Usage
-  Examples of project use.
+  Examples for use generated from command line
 
   
   ## Credit  
   [<img src="https://github.com/octocat.png?" width="100"/>](https://github.com/octocat) | [<img src="https://github.com/wist118.png?" width="100"/>](https://github.com/wist118) | [<img src="https://github.com/cassdoes.png?" width="100"/>](https://github.com/cassdoes) | 
   :----: | :----: | :----: | 
-  **GitHub Mock** | **William Stock** | **Jane Doe** | 
+  **jane doe** | **mark doe** | **some name here** | 
   
 
   ## Contribute 
   Please reach out via either of the following links with any questions, including ways in which
   you can contribute to this project!
 
-  | [<img src="https://github.com/cassdoes.png?" width="150"/>](https://github.com/cassdoes) |
+  | [<img src="https://github.com/GitHub username generated from command line.png?" width="150"/>](https://github.com/GitHub username generated from command line) |
   | :-: |
-  | somethinghere@gmail.com |
-  | **Cassandra Hardin** |
+  | Email address generated from command line |
+  | **Name generated from command line** |
 
   ## Tests
-  ALL OF THE TESTING!
-  
-  ## Tutorial
-  [Click here](https://youtu.be/FP_-FNbvuDI) to watch the turtorial on YouTube
+  Testing input generated from command line
 
   ## Licenses
-  Copyright (c) CassDoes. All rights reserved.  
-  Licensed under the ['Apache'](https://www.apache.org/licenses/LICENSE-2.0.txt) license.
+  Copyright (c) (Info generated from command line). All rights reserved.  
+  Licensed under the ['GNU'](https://www.gnu.org/licenses/gpl-3.0.txt) license.
