@@ -39,7 +39,7 @@
   ALL OF THE TESTING!
   
   ## How it works!
-  [Click here to watch the turtorial on YouTube](https://youtu.be/FP_-FNbvuDI)
+  [Click here](https://youtu.be/FP_-FNbvuDI) to watch the turtorial on YouTube
 
   ## Licenses
   Copyright (c) CassDoes. All rights reserved.  
